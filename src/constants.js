@@ -1,1 +1,1 @@
-export const DB_NAME = "istudia";
+export const DB_NAME = "vtube";
