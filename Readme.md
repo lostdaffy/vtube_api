@@ -1,1 +1,1 @@
-#vtube project is Practice project of production level backend development
+#vtube project is practice project of production level backend development
